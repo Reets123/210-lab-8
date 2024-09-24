@@ -9,5 +9,4 @@ int main() {
     cout << "Simple program" << endl;
 
     return 0;
-
 }
